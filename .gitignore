@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea
+/CRM 2.iml
+
+# Project exclude paths
+/target/
